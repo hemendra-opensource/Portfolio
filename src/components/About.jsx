@@ -16,25 +16,25 @@ const TIMELINE_DATA = [
     description: "Started B.Tech path. Built basic foundations in programming (C, C++), Object-Oriented Design, and computer hardware."
   },
   {
-    year: "Early 2024",
+    year: "Mid 2024",
     title: "MERN Stack Mastery",
     institution: "Self-Paced Web Development",
     description: "Dived deep into modern web development, mastering HTML5, CSS3, JavaScript (ES6+), React.js, Node.js, and MongoDB."
   },
   {
-    year: "Mid 2024",
+    year: "Late 2024",
     title: "Java DSA & Problem Solving Focus",
     institution: "Coding Profiles Mastery",
     description: "Intensified algorithmic skills in Java, solving 500+ data structure and algorithm challenges on LeetCode and GFG."
   },
   {
-    year: "Late 2024",
+    year: "Early 2026",
     title: "First Professional Footsteps",
     institution: "Code-A-Nova & Edunet Foundation",
     description: "Started Frontend Internship at Code-A-Nova (React workflows) and AI & Cloud Internship at Edunet Foundation."
   },
   {
-    year: "2025 - Present",
+    year: "Mid 2026 - Present",
     title: "AI & Data Science Exploration",
     institution: "CBSOT Internship & Research",
     description: "Joined CBSOT as a Data Science Intern. Building RAG applications with LangChain, vector lookup engines, and processing large datasets."

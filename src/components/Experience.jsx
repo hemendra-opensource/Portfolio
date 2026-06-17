@@ -5,7 +5,7 @@ const EXPERIENCES = [
   {
     role: "Data Science Intern",
     company: "CBSOT",
-    period: "2025 – Present",
+    period: "June 2026 – Present",
     type: "Current",
     location: "Remote",
     color: "#00f0ff",
@@ -20,7 +20,7 @@ const EXPERIENCES = [
   {
     role: "AI & Cloud Intern",
     company: "Edunet Foundation",
-    period: "2024",
+    period: "May - June 2026",
     type: "Completed",
     location: "Remote",
     color: "#b026ff",
@@ -35,7 +35,7 @@ const EXPERIENCES = [
   {
     role: "Frontend Developer Intern",
     company: "Code-A-Nova",
-    period: "2024",
+    period: "Jan - April 2026",
     type: "Completed",
     location: "Remote",
     color: "#ff6b00",

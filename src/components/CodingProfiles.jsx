@@ -59,12 +59,12 @@ const PROFILES = [
     color: "#ff6b00",
     icon: "⚡",
     stats: [
-      { label: "Problems Solved", value: "300+" },
-      { label: "Contest Rating", value: "1400+" },
-      { label: "Global Rank", value: "Top 25%" },
-      { label: "Streak", value: "45 days" }
+      { label: "Problems Solved", value: "30+" },
+     // { label: "Contest Rating", value: "1400+" },
+     // { label: "Global Rank", value: "Top 25%" },
+      { label: "Streak", value: "12 days" }
     ],
-    heatmapData: generateHeatmapData(200),
+    heatmapData: generateHeatmapData(50),
     description: "Consistently solving algorithmic challenges focusing on Dynamic Programming, Trees, Graphs, and Binary Search."
   },
   {
@@ -74,12 +74,12 @@ const PROFILES = [
     color: "#2f8d46",
     icon: "🌿",
     stats: [
-      { label: "Problems Solved", value: "250+" },
-      { label: "Institution Rank", value: "Top 10%" },
-      { label: "Articles Read", value: "500+" },
-      { label: "Score", value: "800+" }
+      { label: "Problems Solved", value: "50+" },
+     // { label: "Institution Rank", value: "Top 10%" },
+     // { label: "Articles Read", value: "500+" },
+      { label: "Score", value: "100+" }
     ],
-    heatmapData: generateHeatmapData(150),
+    heatmapData: generateHeatmapData(80),
     description: "Active learner on GFG covering Data Structures, System Design concepts, and CS fundamentals comprehensively."
   }
 ];

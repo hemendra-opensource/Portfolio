@@ -20,7 +20,7 @@ const CERTS = [
   },
   {
     title: "AI Foundation Associate",
-    issuer: "Industry Certification",
+    issuer: "Oracle University",
     category: "AI & ML",
     color: "#00f0ff",
     link: "https://drive.google.com/file/d/1g6UGcgpcmTY45iDC9CTyju9gTkDHsgKt/view?usp=drivesdk",

@@ -93,7 +93,7 @@ export default function Education() {
               </div>
               <div className="glass-panel px-5 py-4 rounded-2xl border flex flex-col text-center min-w-[120px]">
                 <span className="text-xs font-mono text-text-secondary-dark mb-1">Semester</span>
-                <span className="text-base font-bold text-white dark:text-white light:text-slate-800">5th (Current)</span>
+                <span className="text-base font-bold text-white dark:text-white light:text-slate-800">7th (Current)</span>
               </div>
               <div className="glass-panel px-5 py-4 rounded-2xl border flex flex-col text-center min-w-[120px]">
                 <span className="text-xs font-mono text-text-secondary-dark mb-1">CGPA</span>

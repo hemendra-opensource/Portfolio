@@ -26,10 +26,10 @@ const TYPING_WORDS = [
 ];
 
 const STATS = [
-  { value: "500+", label: "DSA Problems Solved", icon: Flame, color: "text-accent-orange" },
+  { value: "100+", label: "DSA Problems Solved", icon: Flame, color: "text-accent-orange" },
   { value: "7.5", label: "B.Tech CGPA", icon: GraduationCap, color: "text-accent-purple" },
   { value: "3", label: "Internships Completed", icon: Award, color: "text-accent-cyan" },
-  { value: "10+", label: "Projects Built", icon: Cpu, color: "text-white" }
+  { value: "5+", label: "Projects Built", icon: Cpu, color: "text-white" }
 ];
 
 export default function Hero() {
