@@ -39,7 +39,7 @@ const CONTACT_CARDS = [
     display: "View & Download",
     icon: FileText,
     color: "#b026ff",
-    link: "https://drive.google.com/file/d/1Ha4ZBmB0yagcRyQ7XXlrvsuNlqdaFY7K/view?usp=drivesdk",
+    link: "https://drive.google.com/file/d/188rL5ceEIMTEYFbMU-UFFMoD7P2FyO0w/view?usp=drivesdk",
     copyable: false
   }
 ];

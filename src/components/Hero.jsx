@@ -15,7 +15,7 @@ const LinkedinIcon = ({ size = 20 }) => (
   </svg>
 );
 
-import avatarImg from "../assets/avatar.png";
+import avatarImg from "../assets/My_Avatar.png";
 
 const TYPING_WORDS = [
   "Full Stack Developer (MERN)",
@@ -135,7 +135,7 @@ export default function Hero() {
             </button>
 
             <a
-              href="https://drive.google.com/file/d/1Ha4ZBmB0yagcRyQ7XXlrvsuNlqdaFY7K/view?usp=drivesdk"
+              href="https://drive.google.com/file/d/188rL5ceEIMTEYFbMU-UFFMoD7P2FyO0w/view?usp=drivesdk"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 rounded-xl bg-white/5 border border-white/10 dark:text-white dark:hover:bg-white/10 light:text-slate-800 light:border-slate-200 light:hover:bg-slate-100 font-medium text-sm cursor-pointer flex items-center gap-2 hover:scale-[1.02] active:scale-[0.98] transition-all"
