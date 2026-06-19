@@ -29,11 +29,8 @@ export default function Footer() {
             </div>
             <div>
               <p className="text-sm font-bold text-white dark:text-white light:text-slate-800">Hemendra Sharma</p>
-<<<<<<< HEAD
               <p className="text-xs text-text-secondary-dark">Full Stack Developer & Data Engineering & AI Enthusiast</p>
-=======
               <p className="text-xs text-text-secondary-dark">Full Stack Developer & AI Enthusiast</p>
->>>>>>> e3474c2e21ea9ed59e935952fdf9c708aa27cee3
             </div>
           </div>
 
@@ -52,19 +49,13 @@ export default function Footer() {
               <Mail size={18} />
             </a>
           </div>
-<<<<<<< HEAD
-          
-=======
->>>>>>> e3474c2e21ea9ed59e935952fdf9c708aa27cee3
 
           {/* Copyright + Back to Top */}
           <div className="flex items-center gap-4">
             <p className="text-xs text-text-secondary-dark">
-<<<<<<< HEAD
               © 2026 Hemendra Sharma. All rights reserved.
 =======
               © 2025 Hemendra Sharma. All rights reserved.
->>>>>>> e3474c2e21ea9ed59e935952fdf9c708aa27cee3
             </p>
             <button
               onClick={scrollToTop}

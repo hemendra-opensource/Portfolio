@@ -7,7 +7,6 @@ const SKILLS = [
   { name: "HTML5", category: "Web Dev", level: 92, color: "#e34f26" },
   { name: "CSS3", category: "Web Dev", level: 88, color: "#264de4" },
   { name: "JavaScript", category: "Web Dev", level: 85, color: "#00f0ff" },
-<<<<<<< HEAD
   { name: "React.js", category: "Web Dev", level: 85, color: "#FFEA00" },
   { name: "Node.js", category: "Web Dev", level: 80, color: "#3c873a" },
   { name: "Express.js", category: "Web Dev", level: 78, color: "#ffffff" },
@@ -18,7 +17,6 @@ const SKILLS = [
   { name: "MySQL", category: "Databases", level: 80, color: "#00758f" },
   { name: "C", category: "Languages", level: 68, color: "#FF007F" },
   { name: "Pandas", category: "Data Engineering", level: 40, color: "#CCFF00" },
-=======
   { name: "React.js", category: "Web Dev", level: 85, color: "#61dafb" },
   { name: "Node.js", category: "Web Dev", level: 80, color: "#3c873a" },
   { name: "Express.js", category: "Web Dev", level: 78, color: "#ffffff" },
@@ -29,36 +27,28 @@ const SKILLS = [
   { name: "MySQL", category: "Databases", level: 80, color: "#00758f" },
   { name: "C", category: "Languages", level: 68, color: "#003b57" },
   { name: "Pandas", category: "Data Engineering", level: 40, color: "#150458" },
->>>>>>> e3474c2e21ea9ed59e935952fdf9c708aa27cee3
   { name: "NumPy", category: "Data Engineering", level: 40, color: "#4dabcf" },
   { name: "ETL Pipelines", category: "Data Engineering", level: 40, color: "#b026ff" },
   { name: "Data Warehousing", category: "Data Engineering", level: 50, color: "#ff6b00" },
  
-<<<<<<< HEAD
   { name: "SQLite", category: "Databases", level: 72, color: "#FFFD23" },
-=======
   { name: "SQLite", category: "Databases", level: 72, color: "#003b57" },
->>>>>>> e3474c2e21ea9ed59e935952fdf9c708aa27cee3
   { name: "Vector Databases", category: "Databases", level: 50, color: "#00f0ff" },
   { name: "AWS", category: "Cloud", level: 68, color: "#ff9900" },
 //  { name: "Azure", category: "Cloud", level: 62, color: "#0089d6" },
   { name: "Machine Learning", category: "AI & ML", level: 70, color: "#b026ff" },
   { name: "RAG", category: "AI & ML", level: 72, color: "#00f0ff" },
   { name: "LLMs", category: "AI & ML", level: 70, color: "#ff6b00" },
-<<<<<<< HEAD
   { name: "LangChain", category: "AI & ML", level: 68, color: "#a9adaf" },
-=======
+
   { name: "LangChain", category: "AI & ML", level: 68, color: "#1c3c3c" },
->>>>>>> e3474c2e21ea9ed59e935952fdf9c708aa27cee3
   { name: "LangFlow", category: "AI & ML", level: 60, color: "#b026ff" },
   { name: "Git", category: "Tools", level: 85, color: "#f05032" },
   { name: "GitHub", category: "Tools", level: 85, color: "#ffffff" },
   { name: "Docker", category: "Tools", level: 60, color: "#2496ed" },
-<<<<<<< HEAD
   { name: "VS Code", category: "Tools", level: 92, color: "#FF1744" },
-=======
+
   { name: "VS Code", category: "Tools", level: 92, color: "#007acc" },
->>>>>>> e3474c2e21ea9ed59e935952fdf9c708aa27cee3
   { name: "Postman", category: "Tools", level: 70, color: "#ff6b00" },
   { name: "Antigravity", category: "Tools", level: 90, color: "#00f0ff" },
 ];
@@ -158,9 +148,3 @@ export default function Skills() {
     </section>
   );
 }
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> e3474c2e21ea9ed59e935952fdf9c708aa27cee3

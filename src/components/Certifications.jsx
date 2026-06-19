@@ -16,7 +16,7 @@ const CERTS = [
     category: "AI & ML",
     color: "#b026ff",
     link: "https://drive.google.com/file/d/1Ytd-M547E4xfnUcNxGjTdSSZD5VCPRrB/view?usp=drivesdk",
-    icon: "🤖"
+    icon: "❋"
   },
   {
     title: "AI Foundation Associate",
@@ -41,7 +41,6 @@ const CERTS = [
     color: "#ff9900",
     link: "https://drive.google.com/file/d/1WAK-3yERM-xHMZ-3NhM1Xidfc-8OQC7Q/view?usp=drivesdk",
     icon: "☁️"
-<<<<<<< HEAD
   },
   {
     title: "GENERATIVE AI workshop",
@@ -50,8 +49,6 @@ const CERTS = [
     color: "#FF007F",
     link: "https://drive.google.com/file/d/1DJHF1q0hSRERdmsoCxSDwHv545q3_Ggw/view?usp=drivesdk",
     icon: "֎🇦🇮"
-=======
->>>>>>> e3474c2e21ea9ed59e935952fdf9c708aa27cee3
   }
 ];
 
