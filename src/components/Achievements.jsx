@@ -28,6 +28,7 @@ const ACHIEVEMENTS = [
     desc: "Built and deployed real-world AI and Cloud Computing projects during academic and internship programs.",
     color: "#00f0ff",
     badge: "AI / Cloud"
+<<<<<<< HEAD
   },
   {
     icon: "🎯",
@@ -35,6 +36,8 @@ const ACHIEVEMENTS = [
     desc: "I was placed among the top 21% of the 7,500 students who registered for the test..",
     color: "#9D00FF",
     badge: "AI / Cloud"
+=======
+>>>>>>> e3474c2e21ea9ed59e935952fdf9c708aa27cee3
   }
 ];
 
