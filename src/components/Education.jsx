@@ -109,7 +109,15 @@ export default function Education() {
                 Maintaining a consistent academic performance while simultaneously completing internships, building impactful projects, and earning industry certifications across AI, Cloud, and Full Stack domains.
               </p>
             </div>
+<br />
+            <div className="glass-panel p-5 rounded-2xl border flex items-center gap-4">
+              <TrendingUp size={18} className="text-accent-blue flex-shrink-0" />
+              <p className="text-sm text-text-secondary-dark leading-relaxed">
+                Developed a strong foundation in Computer Science through coursework in Data Structures & Algorithms, Database Management Systems, Operating Systems, Computer Networks, and Software Engineering, while continuously applying theoretical concepts to real-world projects.
+              </p>
+            </div>
           </div>
+
 
           {/* Right: Coursework */}
           <div className="lg:col-span-5">

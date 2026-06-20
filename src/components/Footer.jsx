@@ -30,7 +30,6 @@ export default function Footer() {
             <div>
               <p className="text-sm font-bold text-white dark:text-white light:text-slate-800">Hemendra Sharma</p>
               <p className="text-xs text-text-secondary-dark">Full Stack Developer & Data Engineering & AI Enthusiast</p>
-              <p className="text-xs text-text-secondary-dark">Full Stack Developer & AI Enthusiast</p>
             </div>
           </div>
 
@@ -53,8 +52,6 @@ export default function Footer() {
           {/* Copyright + Back to Top */}
           <div className="flex items-center gap-4">
             <p className="text-xs text-text-secondary-dark">
-              © 2026 Hemendra Sharma. All rights reserved.
-=======
               © 2025 Hemendra Sharma. All rights reserved.
             </p>
             <button

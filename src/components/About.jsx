@@ -101,10 +101,10 @@ export default function About() {
                     className="glass-panel p-5 rounded-2xl border text-left flex flex-col gap-2 hover:border-accent-purple/40 transition-colors"
                   >
                     <div className={`${strength.color} w-fit`}>
-                      <Icon size={18} />
+                      <Icon size={20} />
                     </div>
-                    <h5 className="text-xs font-bold text-white dark:text-white light:text-slate-800">{strength.title}</h5>
-                    <p className="text-[11px] text-text-secondary-dark dark:text-text-secondary-dark light:text-slate-500 leading-relaxed">
+                    <h5 className="text-base font-bold text-white dark:text-white light:text-slate-800">{strength.title}</h5>
+                    <p className="text-[13px] text-text-secondary-dark dark:text-text-secondary-dark light:text-slate-500 leading-relaxed">
                       {strength.desc}
                     </p>
                   </div>
